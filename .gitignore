@@ -1,5 +1,7 @@
 # OSX
 .DS_Store
+CodingChallenges/
+Python/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
