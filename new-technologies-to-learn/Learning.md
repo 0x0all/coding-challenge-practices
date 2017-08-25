@@ -8,11 +8,7 @@ Hugo is an example of a static website generator, and I've made <https://github.
 
 [Laravel]()
 
-[Ruby On Rails]()
-
 [Elixir]()
-
-[Python Pandas Library]()
 
 [Scala]()
 
@@ -27,3 +23,9 @@ Hugo is an example of a static website generator, and I've made <https://github.
 [Docker]()
 
 [Julia]()
+
+# All Time Favorites I Should Have Known Already, But I Don't Yet
+
+[Ruby On Rails]()
+
+[Python Pandas Library]()
