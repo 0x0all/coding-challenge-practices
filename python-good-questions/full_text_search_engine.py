@@ -48,6 +48,4 @@ if __name__ == '__main__':
     #dict {'hello': [1,2,3], 'world': [1], 'cat': [2,3], 'and': [3], 'dog': [3]}
     #list_of_words {'1': ('hello', 'world'), '2': ('hello', 'cat')}
     add(3, 'hello cat and dog')
-    search('hello cat')              
-               
-    ['hello','cat']
+    search('hello cat')

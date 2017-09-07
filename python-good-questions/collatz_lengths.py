@@ -1,4 +1,4 @@
-# Complete the function below.
+# Similar to https://www.hackerrank.com/contests/projecteuler/challenges/euler014
 
 def collatzSum(maxNumber, minLength):
     dict = {} # key, value pair of number and length
