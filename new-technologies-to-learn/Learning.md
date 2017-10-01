@@ -6,7 +6,9 @@ From my one month of interviews with different companies,  I learned that most c
 
 Hugo is an example of a static website generator, and I've made <https://github.com/dazhaoniel/danielsmovies> using Hugo.
 
-[Laravel]()
+[Laravel](https://laravel.com/)
+
+Currently Working On: Vegan On the Road <https://github.com/dazhaoniel/vegan-on-the-road>
 
 [Elixir]()
 
